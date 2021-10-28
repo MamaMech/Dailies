@@ -1,0 +1,17 @@
+!outfit
+!mail
+!recycle
+!abd
+!shake
+!chop
+!pull
+!fossils
+!branches
+!bottle
+!water
+!roscoe
+!judy
+!muffy
+!sherb
+!ankha
+!rocks
